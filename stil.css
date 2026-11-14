@@ -15,3 +15,5 @@ h3{font-size:17px;margin:20px 0 4px}
 ul{padding-left:20px}
 footer{margin-top:48px;padding-top:16px;border-top:1px solid var(--cizgi);color:var(--soluk);font-size:14px}
 .dil{font-size:14px;color:var(--soluk)}
+.dugme{display:inline-block;background:var(--vurgu);color:var(--kart);font-weight:700;text-decoration:none;padding:12px 22px;border-radius:10px}
+.dugme:hover{opacity:.9}
